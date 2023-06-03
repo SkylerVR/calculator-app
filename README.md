@@ -1,1 +1,1 @@
-# Simple Calculatot app
+# Simple Calculator app.
