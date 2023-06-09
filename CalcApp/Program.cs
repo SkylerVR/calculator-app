@@ -1,6 +1,4 @@
-﻿// TryParse ებიც შემომესწავლა ამ აპლიკაციის კეთების დროს,
-// რათა მოვახდინო რიცხვი ვალიდურია თუ არა.
-
+﻿
 while (true)
 {
     Console.WriteLine("For starting the app enter any symbol to close enter exit");
